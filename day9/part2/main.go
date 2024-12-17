@@ -7,7 +7,6 @@ import (
 	"os"
 )
 
-// wrong answer: 6412390328451
 func main() {
 	line := parseFile("../input.txt")
 
